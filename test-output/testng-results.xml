@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-26T08:35:31Z" name="Default suite" finished-at="2022-04-26T08:36:41Z" duration-ms="70377">
+    <groups>
+    </groups>
+    <test started-at="2022-04-26T08:35:31Z" name="Default test" finished-at="2022-04-26T08:36:41Z" duration-ms="70377">
+      <class name="pompack.tests.LoginTest">
+        <test-method signature="testLogin()[pri:0, instance:pompack.tests.LoginTest@232a7d73]" started-at="2022-04-26T14:05:31Z" name="testLogin" finished-at="2022-04-26T14:06:33Z" duration-ms="62196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="testClosure()[pri:0, instance:pompack.tests.LoginTest@232a7d73]" started-at="2022-04-26T14:06:33Z" name="testClosure" finished-at="2022-04-26T14:06:41Z" duration-ms="8134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClosure -->
+      </class> <!-- pompack.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
